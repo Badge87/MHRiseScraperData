@@ -1,0 +1,4762 @@
+{
+    "version": "1.0.3",
+    "date": "2022-01-26T22:30:38Z",
+    "data": [
+        {
+            "name": "Mastery Jewel 2",
+            "id": "422304422",
+            "description": "A decoration that enhances the Master's Touch skill.",
+            "unlockItem": "",
+            "unlockMonster": "Teostra",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "422304422",
+                        "name": "Master's Touch",
+                        "link": "https://mhrise.kiranico.com/data/skills/422304422"
+                    },
+                    "description": "Prevents your weapon from losing sharpness during critical hits."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x8"
+                },
+                {
+                    "item": {
+                        "id": "181538956",
+                        "name": "Fire Dragon Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/181538956"
+                    },
+                    "amount": "x6"
+                },
+                {
+                    "item": {
+                        "id": "239993129",
+                        "name": "Teostra Mane",
+                        "link": "https://mhrise.kiranico.com/data/items/239993129"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1226235125",
+                        "name": "Goss Harag Bile",
+                        "link": "https://mhrise.kiranico.com/data/items/1226235125"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Handicraft Jewel 3",
+            "id": "229177724",
+            "description": "A decoration that enhances the Handicraft skill.",
+            "unlockItem": "",
+            "unlockMonster": "Kushala Daora",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "229177724",
+                        "name": "Handicraft",
+                        "link": "https://mhrise.kiranico.com/data/skills/229177724"
+                    },
+                    "description": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x8"
+                },
+                {
+                    "item": {
+                        "id": "106754550",
+                        "name": "Daora Dragon Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/106754550"
+                    },
+                    "amount": "x6"
+                },
+                {
+                    "item": {
+                        "id": "1020340",
+                        "name": "Daora Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/1020340"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "278444100",
+                        "name": "Purple Magna Orb",
+                        "link": "https://mhrise.kiranico.com/data/items/278444100"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Fate Jewel 3",
+            "id": "1951027710",
+            "description": "A decoration that enhances the Good Luck skill.",
+            "unlockItem": "",
+            "unlockMonster": "Chameleos",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1951027710",
+                        "name": "Good Luck",
+                        "link": "https://mhrise.kiranico.com/data/skills/1951027710"
+                    },
+                    "description": "Good chance of increased quest rewards. (No effect when joining mid-quest.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x8"
+                },
+                {
+                    "item": {
+                        "id": "509846175",
+                        "name": "Chameleos Hide+",
+                        "link": "https://mhrise.kiranico.com/data/items/509846175"
+                    },
+                    "amount": "x6"
+                },
+                {
+                    "item": {
+                        "id": "1165525115",
+                        "name": "Chameleos Wing",
+                        "link": "https://mhrise.kiranico.com/data/items/1165525115"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "411684799",
+                        "name": "Golden Almudron Orb",
+                        "link": "https://mhrise.kiranico.com/data/items/411684799"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Hellfire Jewel 3",
+            "id": "1755961030",
+            "description": "A decoration that enhances the Hellfire Cloak skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1755961030",
+                        "name": "Hellfire Cloak",
+                        "link": "https://mhrise.kiranico.com/data/skills/1755961030"
+                    },
+                    "description": "Grants hellfire resistance and confers explosive hellfire power to your attacks after fulfilling certain conditions."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "292677733",
+                        "name": "Magna Soulprism",
+                        "link": "https://mhrise.kiranico.com/data/items/292677733"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1913855580",
+                        "name": "Rathalos Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1913855580"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "51310197",
+                        "name": "Rakna-Kadaki Glowgut",
+                        "link": "https://mhrise.kiranico.com/data/items/51310197"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Leap Jewel 3",
+            "id": "2026860724",
+            "description": "A decoration that enhances the Jump Master skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "2026860724",
+                        "name": "Jump Master",
+                        "link": "https://mhrise.kiranico.com/data/skills/2026860724"
+                    },
+                    "description": "Prevents attacks from knocking you back during a jump."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "1626858629",
+                        "name": "Bazelgeuse Wing",
+                        "link": "https://mhrise.kiranico.com/data/items/1626858629"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "2110635538",
+                        "name": "Rathalos Wing",
+                        "link": "https://mhrise.kiranico.com/data/items/2110635538"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1623087626",
+                        "name": "Bishaten Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/1623087626"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Salvo Jewel 3",
+            "id": "733228413",
+            "description": "A decoration that enhances the Rapid Fire Up skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "733228413",
+                        "name": "Rapid Fire Up",
+                        "link": "https://mhrise.kiranico.com/data/skills/733228413"
+                    },
+                    "description": "Improves light bowgun rapid fire."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "826191041",
+                        "name": "Narwa Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/826191041"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1110489090",
+                        "name": "Rathian Spike+",
+                        "link": "https://mhrise.kiranico.com/data/items/1110489090"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1054583416",
+                        "name": "Anjanath Plate",
+                        "link": "https://mhrise.kiranico.com/data/items/1054583416"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Thrift Jewel 2",
+            "id": "257661234",
+            "description": "A decoration that enhances the Spare Shot skill.",
+            "unlockItem": "",
+            "unlockMonster": "Rajang",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "257661234",
+                        "name": "Spare Shot",
+                        "link": "https://mhrise.kiranico.com/data/skills/257661234"
+                    },
+                    "description": "Bow and bowgun shots have a chance not to expend coatings or ammo."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "271397754",
+                        "name": "Rajang Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/271397754"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "51310197",
+                        "name": "Rakna-Kadaki Glowgut",
+                        "link": "https://mhrise.kiranico.com/data/items/51310197"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2037168225",
+                        "name": "Wyvern Gem",
+                        "link": "https://mhrise.kiranico.com/data/items/2037168225"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Razor Jewel 2",
+            "id": "243411229",
+            "description": "A decoration that enhances the Razor Sharp skill.",
+            "unlockItem": "",
+            "unlockMonster": "Rajang",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "243411229",
+                        "name": "Razor Sharp",
+                        "link": "https://mhrise.kiranico.com/data/skills/243411229"
+                    },
+                    "description": "Prevents your weapon from losing sharpness."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "398936231",
+                        "name": "Magnamalo Scute+",
+                        "link": "https://mhrise.kiranico.com/data/items/398936231"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "333435704",
+                        "name": "Rajang Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/333435704"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1641502670",
+                        "name": "Rathalos Plate",
+                        "link": "https://mhrise.kiranico.com/data/items/1641502670"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Spread Jewel 3",
+            "id": "762691032",
+            "description": "A decoration that enhances the Spread Up skill.",
+            "unlockItem": "",
+            "unlockMonster": "Bazelgeuse",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "762691032",
+                        "name": "Spread Up",
+                        "link": "https://mhrise.kiranico.com/data/skills/762691032"
+                    },
+                    "description": "Increases the attack power of Spread Ammo and Spread- type arrows"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "1699038407",
+                        "name": "Bazelgeuse Fuse",
+                        "link": "https://mhrise.kiranico.com/data/items/1699038407"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1713288420",
+                        "name": "Bazelgeuse Talon",
+                        "link": "https://mhrise.kiranico.com/data/items/1713288420"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1774216993",
+                        "name": "Zinogre Plate",
+                        "link": "https://mhrise.kiranico.com/data/items/1774216993"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Pierce Jewel 3",
+            "id": "748441147",
+            "description": "A decoration that enhances the Pierce Up skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "748441147",
+                        "name": "Pierce Up",
+                        "link": "https://mhrise.kiranico.com/data/skills/748441147"
+                    },
+                    "description": "Increases the attack power of Piercing Ammo and Piercing-type arrows."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "348648422",
+                        "name": "Tigrex Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/348648422"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "390841157",
+                        "name": "Rajang Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/390841157"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "369563226",
+                        "name": "Mizutsune Plate",
+                        "link": "https://mhrise.kiranico.com/data/items/369563226"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Forceshot Jewel 3",
+            "id": "599465498",
+            "description": "A decoration that enhances the Normal/Rapid Up skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "599465498",
+                        "name": "Normal/Rapid Up",
+                        "link": "https://mhrise.kiranico.com/data/skills/599465498"
+                    },
+                    "description": "Increases the attack power of Normal Ammo and Rapid-type arrows."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "2018610673",
+                        "name": "Majestic Horn",
+                        "link": "https://mhrise.kiranico.com/data/items/2018610673"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "113802960",
+                        "name": "Goss Harag Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/113802960"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2037168225",
+                        "name": "Wyvern Gem",
+                        "link": "https://mhrise.kiranico.com/data/items/2037168225"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Sharp Jewel 2",
+            "id": "138201299",
+            "description": "A decoration that enhances the Protective Polish skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "138201299",
+                        "name": "Protective Polish",
+                        "link": "https://mhrise.kiranico.com/data/skills/138201299"
+                    },
+                    "description": "Weapon sharpness does not decrease for a set time after sharpening."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "336898273",
+                        "name": "Magnamalo Blade+",
+                        "link": "https://mhrise.kiranico.com/data/items/336898273"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1514629419",
+                        "name": "Narga Razor",
+                        "link": "https://mhrise.kiranico.com/data/items/1514629419"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1222816897",
+                        "name": "Great Izuchi Tail+",
+                        "link": "https://mhrise.kiranico.com/data/items/1222816897"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Blast Jewel 2",
+            "id": "215451999",
+            "description": "A decoration that enhances the Blast Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "Bazelgeuse",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "215451999",
+                        "name": "Blast Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/215451999"
+                    },
+                    "description": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1699038407",
+                        "name": "Bazelgeuse Fuse",
+                        "link": "https://mhrise.kiranico.com/data/items/1699038407"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2072683777",
+                        "name": "Bazelgeuse Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/2072683777"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "292677733",
+                        "name": "Magna Soulprism",
+                        "link": "https://mhrise.kiranico.com/data/items/292677733"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Sleep Jewel 2",
+            "id": "67000766",
+            "description": "A decoration that enhances the Sleep Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "67000766",
+                        "name": "Sleep Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/67000766"
+                    },
+                    "description": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "1770051842",
+                        "name": "Somnacanth Sedative",
+                        "link": "https://mhrise.kiranico.com/data/items/1770051842"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "351911537",
+                        "name": "Coma Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/351911537"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2080864493",
+                        "name": "Elder Dragon Bone",
+                        "link": "https://mhrise.kiranico.com/data/items/2080864493"
+                    },
+                    "amount": "x3"
+                }
+            ]
+        },
+        {
+            "name": "Paralyzer Jewel 2",
+            "id": "19196313",
+            "description": "A decoration that enhances the Paralysis Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "19196313",
+                        "name": "Paralysis Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/19196313"
+                    },
+                    "description": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "1766792883",
+                        "name": "Omniplegia Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/1766792883"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "425934684",
+                        "name": "Golden Sludge",
+                        "link": "https://mhrise.kiranico.com/data/items/425934684"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2080864493",
+                        "name": "Elder Dragon Bone",
+                        "link": "https://mhrise.kiranico.com/data/items/2080864493"
+                    },
+                    "amount": "x3"
+                }
+            ]
+        },
+        {
+            "name": "Throttle Jewel 2",
+            "id": "514312899",
+            "description": "A decoration that enhances the Latent Power skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "514312899",
+                        "name": "Latent Power",
+                        "link": "https://mhrise.kiranico.com/data/skills/514312899"
+                    },
+                    "description": "Temporarily increases affinity and reduces stamina depletion when certain conditions are met."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "2102670828",
+                        "name": "Anjanath Pelt+",
+                        "link": "https://mhrise.kiranico.com/data/items/2102670828"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1335754630",
+                        "name": "Zinogre Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/1335754630"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "2037168225",
+                        "name": "Wyvern Gem",
+                        "link": "https://mhrise.kiranico.com/data/items/2037168225"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Crisis Jewel 2",
+            "id": "289049423",
+            "description": "A decoration that enhances the Resuscitate skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "289049423",
+                        "name": "Resuscitate",
+                        "link": "https://mhrise.kiranico.com/data/skills/289049423"
+                    },
+                    "description": "Increases attack power when you are suffering from an abnormal status."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1591355735",
+                        "name": "Nargacuga Pelt+",
+                        "link": "https://mhrise.kiranico.com/data/items/1591355735"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1853967437",
+                        "name": "Tigrex Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/1853967437"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "106362530",
+                        "name": "Beast Gem",
+                        "link": "https://mhrise.kiranico.com/data/items/106362530"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Furor Jewel 2",
+            "id": "274815918",
+            "description": "A decoration that enhances the Resentment skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "274815918",
+                        "name": "Resentment",
+                        "link": "https://mhrise.kiranico.com/data/skills/274815918"
+                    },
+                    "description": "Increases attack when you have recoverable damage (the red portion of your health gauge)."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1763007520",
+                        "name": "Tigrex Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1763007520"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "549018592",
+                        "name": "Barioth Pelt+",
+                        "link": "https://mhrise.kiranico.com/data/items/549018592"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "261291560",
+                        "name": "Ibushi Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/261291560"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Flawless Jewel 2",
+            "id": "395307913",
+            "description": "A decoration that enhances the Peak Performance skill.",
+            "unlockItem": "",
+            "unlockMonster": "Apex Mizutsune",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "395307913",
+                        "name": "Peak Performance",
+                        "link": "https://mhrise.kiranico.com/data/skills/395307913"
+                    },
+                    "description": "Increases attack when your health is full."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "766317302",
+                        "name": "Apex Bubblefoam",
+                        "link": "https://mhrise.kiranico.com/data/items/766317302"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "170315151",
+                        "name": "Ibushi Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/170315151"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1367140819",
+                        "name": "Basarios Tears",
+                        "link": "https://mhrise.kiranico.com/data/items/1367140819"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Challenger Jewel 2",
+            "id": "381074408",
+            "description": "A decoration that enhances the Agitator skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "381074408",
+                        "name": "Agitator",
+                        "link": "https://mhrise.kiranico.com/data/skills/381074408"
+                    },
+                    "description": "Increases attack power and affinity when large monsters become enraged."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "2087896527",
+                        "name": "Anjanath Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/2087896527"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "306927642",
+                        "name": "Almudron Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/306927642"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "106362530",
+                        "name": "Beast Gem",
+                        "link": "https://mhrise.kiranico.com/data/items/106362530"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Tenderizer Jewel 2",
+            "id": "500079394",
+            "description": "A decoration that enhances the Weakness Exploit skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "500079394",
+                        "name": "Weakness Exploit",
+                        "link": "https://mhrise.kiranico.com/data/skills/500079394"
+                    },
+                    "description": "Increases the affinity of attacks that exploit a monster weak spot."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "247041547",
+                        "name": "Rakna-Kadaki Spike",
+                        "link": "https://mhrise.kiranico.com/data/items/247041547"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "470155224",
+                        "name": "Almudron Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/470155224"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1202497711",
+                        "name": "Narga Medulla",
+                        "link": "https://mhrise.kiranico.com/data/items/1202497711"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Critical Jewel 2",
+            "id": "485829389",
+            "description": "A decoration that enhances the Critical Boost skill.",
+            "unlockItem": "",
+            "unlockMonster": "Apex Rathalos",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "485829389",
+                        "name": "Critical Boost",
+                        "link": "https://mhrise.kiranico.com/data/skills/485829389"
+                    },
+                    "description": "Increases the damage of critical hits."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1061000775",
+                        "name": "Lazurite Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1061000775"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "780550807",
+                        "name": "Apex Blaze Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/780550807"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "384702598",
+                        "name": "Magnamalo Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/384702598"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1092980114",
+                        "name": "Almudron Plate",
+                        "link": "https://mhrise.kiranico.com/data/items/1092980114"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Capacity Jewel 3",
+            "id": "776924665",
+            "description": "A decoration that enhances the Ammo Up skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "776924665",
+                        "name": "Ammo Up",
+                        "link": "https://mhrise.kiranico.com/data/skills/776924665"
+                    },
+                    "description": "Increases bowgun loading capacity. (There is a cap to loading capacity.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "888683948",
+                        "name": "Ibushi Windsac",
+                        "link": "https://mhrise.kiranico.com/data/items/888683948"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1173489897",
+                        "name": "Nargacuga Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/1173489897"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1540219045",
+                        "name": "Jyuratodus Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/1540219045"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Guardian Jewel 3",
+            "id": "1047302063",
+            "description": "A decoration that enhances the Offensive Guard skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1047302063",
+                        "name": "Offensive Guard",
+                        "link": "https://mhrise.kiranico.com/data/skills/1047302063"
+                    },
+                    "description": "Temporarily increases attack power after executing a perfectly-timed guard."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "141831625",
+                        "name": "Ibushi Hide+",
+                        "link": "https://mhrise.kiranico.com/data/items/141831625"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "725514942",
+                        "name": "Volvidon Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/725514942"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1629752521",
+                        "name": "Diablos Medulla",
+                        "link": "https://mhrise.kiranico.com/data/items/1629752521"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Fungiform Jewel 3",
+            "id": "1893605725",
+            "description": "A decoration that enhances the Mushroomancer skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1893605725",
+                        "name": "Mushroomancer",
+                        "link": "https://mhrise.kiranico.com/data/skills/1893605725"
+                    },
+                    "description": "Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "376607652",
+                        "name": "Tigrex Maw",
+                        "link": "https://mhrise.kiranico.com/data/items/376607652"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "2116904333",
+                        "name": "Anjanath Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/2116904333"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "145614936",
+                        "name": "Mandragora",
+                        "link": "https://mhrise.kiranico.com/data/items/145614936"
+                    },
+                    "amount": "x3"
+                }
+            ]
+        },
+        {
+            "name": "Draw Jewel 3",
+            "id": "1061551948",
+            "description": "A decoration that enhances the Critical Draw skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1061551948",
+                        "name": "Critical Draw",
+                        "link": "https://mhrise.kiranico.com/data/skills/1061551948"
+                    },
+                    "description": "Increases affinity for a short time after performing a draw attack. (Does not include Silkbind attacks.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "170315151",
+                        "name": "Ibushi Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/170315151"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "2018610673",
+                        "name": "Majestic Horn",
+                        "link": "https://mhrise.kiranico.com/data/items/2018610673"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "802241338",
+                        "name": "Amber Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/802241338"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Precise Jewel 2",
+            "id": "200239249",
+            "description": "A decoration that enhances the Ballistics skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "200239249",
+                        "name": "Ballistics",
+                        "link": "https://mhrise.kiranico.com/data/skills/200239249"
+                    },
+                    "description": "Extends the range in which ammo and arrows have maximum power."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "839916774",
+                        "name": "Narwa Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/839916774"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1215770535",
+                        "name": "Zinogre Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1215770535"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1629752521",
+                        "name": "Diablos Medulla",
+                        "link": "https://mhrise.kiranico.com/data/items/1629752521"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Crit Element Jewel 2",
+            "id": "408054401",
+            "description": "A decoration that enhances the Critical Element skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "408054401",
+                        "name": "Critical Element",
+                        "link": "https://mhrise.kiranico.com/data/skills/408054401"
+                    },
+                    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1661497118",
+                        "name": "Elder Dragon Blood",
+                        "link": "https://mhrise.kiranico.com/data/items/1661497118"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "8068758",
+                        "name": "Block of Ice+",
+                        "link": "https://mhrise.kiranico.com/data/items/8068758"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1597640902",
+                        "name": "Tobi-Kadachi Electrode+",
+                        "link": "https://mhrise.kiranico.com/data/items/1597640902"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Artillery Jewel 2",
+            "id": "657919655",
+            "description": "A decoration that enhances the Artillery skill.",
+            "unlockItem": "",
+            "unlockMonster": "Magnamalo",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "657919655",
+                        "name": "Artillery",
+                        "link": "https://mhrise.kiranico.com/data/skills/657919655"
+                    },
+                    "description": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1784285475",
+                        "name": "Magnamalo Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1784285475"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1925195273",
+                        "name": "Pukei-Pukei Sac+",
+                        "link": "https://mhrise.kiranico.com/data/items/1925195273"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2084125564",
+                        "name": "Tetranadon Beak+",
+                        "link": "https://mhrise.kiranico.com/data/items/2084125564"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Sprinter Jewel 2",
+            "id": "808327178",
+            "description": "A decoration that enhances the Marathon Runner skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "808327178",
+                        "name": "Marathon Runner",
+                        "link": "https://mhrise.kiranico.com/data/skills/808327178"
+                    },
+                    "description": "Slows down stamina depletion for actions which continuously drain stamina (such as dashing)."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1321504737",
+                        "name": "Zinogre Electrofur",
+                        "link": "https://mhrise.kiranico.com/data/items/1321504737"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "2047618487",
+                        "name": "Diablos Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/2047618487"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "952636553",
+                        "name": "Royal Ludroth Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/952636553"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Charger Jewel 2",
+            "id": "913537140",
+            "description": "A decoration that enhances the Focus skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "913537140",
+                        "name": "Focus",
+                        "link": "https://mhrise.kiranico.com/data/skills/913537140"
+                    },
+                    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "888683948",
+                        "name": "Ibushi Windsac",
+                        "link": "https://mhrise.kiranico.com/data/items/888683948"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "398936231",
+                        "name": "Magnamalo Scute+",
+                        "link": "https://mhrise.kiranico.com/data/items/398936231"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "96292000",
+                        "name": "Rath Medulla",
+                        "link": "https://mhrise.kiranico.com/data/items/96292000"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Mind's Eye Jewel 2",
+            "id": "152451312",
+            "description": "A decoration that enhances the Mind's Eye skill.",
+            "unlockItem": "",
+            "unlockMonster": "Tigrex",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "152451312",
+                        "name": "Mind's Eye",
+                        "link": "https://mhrise.kiranico.com/data/skills/152451312"
+                    },
+                    "description": "Your attacks are deflected less and deal more damage to hard targets."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "454942482",
+                        "name": "Goss Harag Hide+",
+                        "link": "https://mhrise.kiranico.com/data/items/454942482"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1977380667",
+                        "name": "Mizutsune Purplefur+",
+                        "link": "https://mhrise.kiranico.com/data/items/1977380667"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "495612670",
+                        "name": "Gold Rajang Pelt",
+                        "link": "https://mhrise.kiranico.com/data/items/495612670"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Potential Jewel 2",
+            "id": "2084266193",
+            "description": "A decoration that enhances the Heroics skill.",
+            "unlockItem": "",
+            "unlockMonster": "Diablos",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "2084266193",
+                        "name": "Heroics",
+                        "link": "https://mhrise.kiranico.com/data/skills/2084266193"
+                    },
+                    "description": "Increases attack power and defense when health drops to 35% or lower."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "481362649",
+                        "name": "Rajang Tail",
+                        "link": "https://mhrise.kiranico.com/data/items/481362649"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2018610673",
+                        "name": "Majestic Horn",
+                        "link": "https://mhrise.kiranico.com/data/items/2018610673"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1826008207",
+                        "name": "Tigrex Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1826008207"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Trueshot Jewel 2",
+            "id": "585215589",
+            "description": "A decoration that enhances the Special Ammo Boost skill.",
+            "unlockItem": "",
+            "unlockMonster": "Almudron",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "585215589",
+                        "name": "Special Ammo Boost",
+                        "link": "https://mhrise.kiranico.com/data/skills/585215589"
+                    },
+                    "description": "Increases the power of bowgun special ammo and Dragon Piercer."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "470155224",
+                        "name": "Almudron Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/470155224"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1756326253",
+                        "name": "Somnacanth Fin+",
+                        "link": "https://mhrise.kiranico.com/data/items/1756326253"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1991630552",
+                        "name": "Mizutsune Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1991630552"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Magazine Jewel 2",
+            "id": "537427524",
+            "description": "A decoration that enhances the Load Shells skill.",
+            "unlockItem": "",
+            "unlockMonster": "Goss Harag",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "537427524",
+                        "name": "Load Shells",
+                        "link": "https://mhrise.kiranico.com/data/skills/537427524"
+                    },
+                    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "113802960",
+                        "name": "Goss Harag Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/113802960"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1651046856",
+                        "name": "Bishaten Tailcase+",
+                        "link": "https://mhrise.kiranico.com/data/items/1651046856"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "106362530",
+                        "name": "Beast Gem",
+                        "link": "https://mhrise.kiranico.com/data/items/106362530"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Shield Jewel 2",
+            "id": "1032544142",
+            "description": "A decoration that enhances the Guard Up skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1032544142",
+                        "name": "Guard Up",
+                        "link": "https://mhrise.kiranico.com/data/skills/1032544142"
+                    },
+                    "description": "Allows you to guard against ordinarily unblockable attacks."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "931925251",
+                        "name": "Narwa Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/931925251"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "100077363",
+                        "name": "Goss Harag Brace+",
+                        "link": "https://mhrise.kiranico.com/data/items/100077363"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "807778061",
+                        "name": "Basarios Pleura+",
+                        "link": "https://mhrise.kiranico.com/data/items/807778061"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Ironwall Jewel 2",
+            "id": "1018294249",
+            "description": "A decoration that enhances the Guard skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1018294249",
+                        "name": "Guard",
+                        "link": "https://mhrise.kiranico.com/data/skills/1018294249"
+                    },
+                    "description": "Reduces knockbacks and stamina depletion when guarding."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1021922439",
+                        "name": "Narwa Sparksac",
+                        "link": "https://mhrise.kiranico.com/data/items/1021922439"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "517943289",
+                        "name": "Almudron Fin+",
+                        "link": "https://mhrise.kiranico.com/data/items/517943289"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1936182111",
+                        "name": "Tetranadon Disc+",
+                        "link": "https://mhrise.kiranico.com/data/items/1936182111"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Refresh Jewel 2",
+            "id": "869842888",
+            "description": "A decoration that enhances the Stamina Surge skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "869842888",
+                        "name": "Stamina Surge",
+                        "link": "https://mhrise.kiranico.com/data/skills/869842888"
+                    },
+                    "description": "Speeds up stamina recovery."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1826008207",
+                        "name": "Tigrex Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1826008207"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "531668894",
+                        "name": "Almudron Whisker+",
+                        "link": "https://mhrise.kiranico.com/data/items/531668894"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "981120079",
+                        "name": "Royal Ludroth Crest+",
+                        "link": "https://mhrise.kiranico.com/data/items/981120079"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Enhancer Jewel 2",
+            "id": "928294933",
+            "description": "A decoration that enhances the Power Prolonger skill.",
+            "unlockItem": "",
+            "unlockMonster": "Almudron",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "928294933",
+                        "name": "Power Prolonger",
+                        "link": "https://mhrise.kiranico.com/data/skills/928294933"
+                    },
+                    "description": "Long swords, dual blades, insect glaives, switch axes, and charge blades stay powered up longer."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "8068758",
+                        "name": "Block of Ice+",
+                        "link": "https://mhrise.kiranico.com/data/items/8068758"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "425934684",
+                        "name": "Golden Sludge",
+                        "link": "https://mhrise.kiranico.com/data/items/425934684"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2037168225",
+                        "name": "Wyvern Gem",
+                        "link": "https://mhrise.kiranico.com/data/items/2037168225"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Mighty Jewel 2",
+            "id": "528038624",
+            "description": "A decoration that enhances the Maximum Might skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "528038624",
+                        "name": "Maximum Might",
+                        "link": "https://mhrise.kiranico.com/data/skills/528038624"
+                    },
+                    "description": "Increases affinity if stamina is kept full for a period of time."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "839916774",
+                        "name": "Narwa Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/839916774"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "440692605",
+                        "name": "Goss Harag Fur+",
+                        "link": "https://mhrise.kiranico.com/data/items/440692605"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1684672586",
+                        "name": "Rathian Plate",
+                        "link": "https://mhrise.kiranico.com/data/items/1684672586"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Attack Jewel 2",
+            "id": "366824395",
+            "description": "A decoration that enhances the Attack Boost skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "366824395",
+                        "name": "Attack Boost",
+                        "link": "https://mhrise.kiranico.com/data/skills/366824395"
+                    },
+                    "description": "Increases attack power."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x5"
+                },
+                {
+                    "item": {
+                        "id": "285631259",
+                        "name": "Rajang Blackfur",
+                        "link": "https://mhrise.kiranico.com/data/items/285631259"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "128036593",
+                        "name": "Goss Harag Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/128036593"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1155997305",
+                        "name": "Magnamalo Plate",
+                        "link": "https://mhrise.kiranico.com/data/items/1155997305"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Expert Jewel 2",
+            "id": "303299436",
+            "description": "A decoration that enhances the Critical Eye skill.",
+            "unlockItem": "",
+            "unlockMonster": "Thunder Serpent Narwa",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "303299436",
+                        "name": "Critical Eye",
+                        "link": "https://mhrise.kiranico.com/data/skills/303299436"
+                    },
+                    "description": "Increases affinity."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1661497118",
+                        "name": "Elder Dragon Blood",
+                        "link": "https://mhrise.kiranico.com/data/items/1661497118"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "285631259",
+                        "name": "Rajang Blackfur",
+                        "link": "https://mhrise.kiranico.com/data/items/285631259"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "902917453",
+                        "name": "Ibushi Bluespike",
+                        "link": "https://mhrise.kiranico.com/data/items/902917453"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Quickswitch Jewel 2",
+            "id": "1875928865",
+            "description": "A decoration that enhances the Rapid Morph skill.",
+            "unlockItem": "",
+            "unlockMonster": "Tigrex",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1875928865",
+                        "name": "Rapid Morph",
+                        "link": "https://mhrise.kiranico.com/data/skills/1875928865"
+                    },
+                    "description": "Increases switch speed and power for switch axes and charge blades."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1763007520",
+                        "name": "Tigrex Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1763007520"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1876310348",
+                        "name": "Somnacanth Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1876310348"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "37076564",
+                        "name": "Rakna-Kadaki Silk",
+                        "link": "https://mhrise.kiranico.com/data/items/37076564"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Absorber Jewel 1",
+            "id": "704220607",
+            "description": "A decoration that enhances the Recoil Down skill.",
+            "unlockItem": "",
+            "unlockMonster": "Rakna-Kadaki",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "704220607",
+                        "name": "Recoil Down",
+                        "link": "https://mhrise.kiranico.com/data/skills/704220607"
+                    },
+                    "description": "Reduces recoil when firing bowgun ammo."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "232808042",
+                        "name": "Rakna-Kadaki Sharpclaw",
+                        "link": "https://mhrise.kiranico.com/data/items/232808042"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2131154338",
+                        "name": "Anjanath Nosebone+",
+                        "link": "https://mhrise.kiranico.com/data/items/2131154338"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Blunt Jewel 2",
+            "id": "885053622",
+            "description": "A decoration that enhances the Bludgeoner skill.",
+            "unlockItem": "",
+            "unlockMonster": "Diablos",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "885053622",
+                        "name": "Bludgeoner",
+                        "link": "https://mhrise.kiranico.com/data/skills/885053622"
+                    },
+                    "description": "Increases attack power when your weapon sharpness is low."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "100077363",
+                        "name": "Goss Harag Brace+",
+                        "link": "https://mhrise.kiranico.com/data/items/100077363"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1707003253",
+                        "name": "Diablos Ridge+",
+                        "link": "https://mhrise.kiranico.com/data/items/1707003253"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "481362649",
+                        "name": "Rajang Tail",
+                        "link": "https://mhrise.kiranico.com/data/items/481362649"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Quickload Jewel 1",
+            "id": "790650270",
+            "description": "A decoration that enhances the Reload Speed skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_3orHall_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "790650270",
+                        "name": "Reload Speed",
+                        "link": "https://mhrise.kiranico.com/data/skills/790650270"
+                    },
+                    "description": "Increases bowgun reloading and bow coating loading speed."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "1784285475",
+                        "name": "Magnamalo Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1784285475"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2047618487",
+                        "name": "Diablos Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/2047618487"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1743055381",
+                        "name": "Bishaten Fur+",
+                        "link": "https://mhrise.kiranico.com/data/items/1743055381"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Steadfast Jewel 1",
+            "id": "1132974822",
+            "description": "A decoration that enhances the Stun Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_3orHall_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1132974822",
+                        "name": "Stun Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1132974822"
+                    },
+                    "description": "Reduces stun duration."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "22826679",
+                        "name": "Rakna-Kadaki Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/22826679"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "321685563",
+                        "name": "Almudron Shell+",
+                        "link": "https://mhrise.kiranico.com/data/items/321685563"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Footing Jewel 2",
+            "id": "1551805557",
+            "description": "A decoration that enhances the Tremor Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "Goss Harag",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1551805557",
+                        "name": "Tremor Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1551805557"
+                    },
+                    "description": "Grants protection against ground tremors."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1707003253",
+                        "name": "Diablos Ridge+",
+                        "link": "https://mhrise.kiranico.com/data/items/1707003253"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1669067896",
+                        "name": "Great Stoutbone",
+                        "link": "https://mhrise.kiranico.com/data/items/1669067896"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1921948606",
+                        "name": "Tetra Carapace+",
+                        "link": "https://mhrise.kiranico.com/data/items/1921948606"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Earplug Jewel 3",
+            "id": "1389104311",
+            "description": "A decoration that enhances the Earplugs skill.",
+            "unlockItem": "",
+            "unlockMonster": "Magnamalo",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1389104311",
+                        "name": "Earplugs",
+                        "link": "https://mhrise.kiranico.com/data/skills/1389104311"
+                    },
+                    "description": "Grants protection from large monsters' roars."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1798535360",
+                        "name": "Magnamalo Shell+",
+                        "link": "https://mhrise.kiranico.com/data/items/1798535360"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "376607652",
+                        "name": "Tigrex Maw",
+                        "link": "https://mhrise.kiranico.com/data/items/376607652"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "506060812",
+                        "name": "Lagombi Ear+",
+                        "link": "https://mhrise.kiranico.com/data/items/506060812"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Counter Jewel 2",
+            "id": "1862219520",
+            "description": "A decoration that enhances the Counterstrike skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "V\u26053 Supply Run",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1862219520",
+                        "name": "Counterstrike",
+                        "link": "https://mhrise.kiranico.com/data/skills/1862219520"
+                    },
+                    "description": "Temporarily increases attack power after being knocked back."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1913855580",
+                        "name": "Rathalos Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1913855580"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "156081646",
+                        "name": "Ibushi Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/156081646"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Bubble Jewel 2",
+            "id": "1565531242",
+            "description": "A decoration that enhances the Bubbly Dance skill.",
+            "unlockItem": "",
+            "unlockMonster": "Mizutsune",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1565531242",
+                        "name": "Bubbly Dance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1565531242"
+                    },
+                    "description": "Reduces bubbleblight and grants increased evasion when afflicted."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1885372062",
+                        "name": "Bubblefoam+",
+                        "link": "https://mhrise.kiranico.com/data/items/1885372062"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "499924297",
+                        "name": "Torrent Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/499924297"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Sniper Jewel 1",
+            "id": "718470492",
+            "description": "A decoration that enhances the Steadiness skill.",
+            "unlockItem": "",
+            "unlockMonster": "Barioth",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "718470492",
+                        "name": "Steadiness",
+                        "link": "https://mhrise.kiranico.com/data/skills/718470492"
+                    },
+                    "description": "Suppresses the deviation of bowgun shots."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1962622746",
+                        "name": "Mizutsune Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1962622746"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2110635538",
+                        "name": "Rathalos Wing",
+                        "link": "https://mhrise.kiranico.com/data/items/2110635538"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Gambit Jewel 2",
+            "id": "941567853",
+            "description": "A decoration that enhances the Punishing Draw skill.",
+            "unlockItem": "",
+            "unlockMonster": "Zinogre",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "941567853",
+                        "name": "Punishing Draw",
+                        "link": "https://mhrise.kiranico.com/data/skills/941567853"
+                    },
+                    "description": "Adds a stun effect to draw attacks and slightly increases attack power. (Does not include Silkbind attacks.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1335754630",
+                        "name": "Zinogre Horn+",
+                        "link": "https://mhrise.kiranico.com/data/items/1335754630"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1862060463",
+                        "name": "Somnacanth Shell+",
+                        "link": "https://mhrise.kiranico.com/data/items/1862060463"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1331969335",
+                        "name": "Goss Harag Claw",
+                        "link": "https://mhrise.kiranico.com/data/items/1331969335"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Jumping Jewel 2",
+            "id": "1594014760",
+            "description": "A decoration that enhances the Evade Extender skill.",
+            "unlockItem": "",
+            "unlockMonster": "Tobi-Kadachi",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1594014760",
+                        "name": "Evade Extender",
+                        "link": "https://mhrise.kiranico.com/data/skills/1594014760"
+                    },
+                    "description": "Increases evade distance."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1229496132",
+                        "name": "Zinogre Shocker+",
+                        "link": "https://mhrise.kiranico.com/data/items/1229496132"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1464386031",
+                        "name": "Tobi-Kadachi Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1464386031"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Evasion Jewel 2",
+            "id": "1579764747",
+            "description": "A decoration that enhances the Evade Window skill.",
+            "unlockItem": "",
+            "unlockMonster": "Rathalos",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1579764747",
+                        "name": "Evade Window",
+                        "link": "https://mhrise.kiranico.com/data/skills/1579764747"
+                    },
+                    "description": "Extends the invulnerability period when evading."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "577502118",
+                        "name": "Barioth Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/577502118"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1392206253",
+                        "name": "Tobi-Kadachi Pelt+",
+                        "link": "https://mhrise.kiranico.com/data/items/1392206253"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2096385661",
+                        "name": "Rathalos Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/2096385661"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Brace Jewel 1",
+            "id": "2146828439",
+            "description": "A decoration that enhances the Flinch Free skill.",
+            "unlockItem": "",
+            "unlockMonster": "Zinogre",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "2146828439",
+                        "name": "Flinch Free",
+                        "link": "https://mhrise.kiranico.com/data/skills/2146828439"
+                    },
+                    "description": "Prevents knockbacks and other reactions to small damage."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1306746816",
+                        "name": "Zinogre Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/1306746816"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1991630552",
+                        "name": "Mizutsune Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1991630552"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Sheath Jewel 2",
+            "id": "988847874",
+            "description": "A decoration that enhances the Quick Sheathe skill.",
+            "unlockItem": "",
+            "unlockMonster": "Nargacuga",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "988847874",
+                        "name": "Quick Sheathe",
+                        "link": "https://mhrise.kiranico.com/data/skills/988847874"
+                    },
+                    "description": "Speeds up weapon sheathing."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1591355735",
+                        "name": "Nargacuga Pelt+",
+                        "link": "https://mhrise.kiranico.com/data/items/1591355735"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1569681664",
+                        "name": "Tobi-Kadachi Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1569681664"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1665280489",
+                        "name": "Bishaten Talon+",
+                        "link": "https://mhrise.kiranico.com/data/items/1665280489"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Wind Res Jewel 1",
+            "id": "1403354196",
+            "description": "A decoration that enhances the Windproof skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "V\u26053 Supply Run",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1403354196",
+                        "name": "Windproof",
+                        "link": "https://mhrise.kiranico.com/data/skills/1403354196"
+                    },
+                    "description": "Grants protection against wind pressure."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1472350749",
+                        "name": "Basarios Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/1472350749"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1921948606",
+                        "name": "Tetra Carapace+",
+                        "link": "https://mhrise.kiranico.com/data/items/1921948606"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "KO Jewel 2",
+            "id": "1003081507",
+            "description": "A decoration that enhances the Slugger skill.",
+            "unlockItem": "",
+            "unlockMonster": "Anjanath",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1003081507",
+                        "name": "Slugger",
+                        "link": "https://mhrise.kiranico.com/data/skills/1003081507"
+                    },
+                    "description": "Makes it easier to stun monsters."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "2131154338",
+                        "name": "Anjanath Nosebone+",
+                        "link": "https://mhrise.kiranico.com/data/items/2131154338"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "164029980",
+                        "name": "Barroth Scalp",
+                        "link": "https://mhrise.kiranico.com/data/items/164029980"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Friendship Jewel 2",
+            "id": "1921564947",
+            "description": "A decoration that enhances the Wide-Range skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2orHall_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1921564947",
+                        "name": "Wide-Range",
+                        "link": "https://mhrise.kiranico.com/data/skills/1921564947"
+                    },
+                    "description": "Allows the effects of certain items to also affect nearby allies."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1991630552",
+                        "name": "Mizutsune Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1991630552"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1395624337",
+                        "name": "Nargacuga Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1395624337"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "412601027",
+                        "name": "Lifepowder",
+                        "link": "https://mhrise.kiranico.com/data/items/412601027"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Destroyer Jewel 2",
+            "id": "1237729819",
+            "description": "A decoration that enhances the Partbreaker skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2orHall_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1237729819",
+                        "name": "Partbreaker",
+                        "link": "https://mhrise.kiranico.com/data/skills/1237729819"
+                    },
+                    "description": "Makes it easier to break or sever parts of monsters."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1215770535",
+                        "name": "Zinogre Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/1215770535"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "802241338",
+                        "name": "Amber Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/802241338"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1720728938",
+                        "name": "Diablos Tailcase",
+                        "link": "https://mhrise.kiranico.com/data/items/1720728938"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Resistor Jewel 2",
+            "id": "1176146786",
+            "description": "A decoration that enhances the Blight Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2orHall_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1176146786",
+                        "name": "Blight Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1176146786"
+                    },
+                    "description": "Grants protection against all elemental blights."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "303144331",
+                        "name": "Freezer Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/303144331"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "275185141",
+                        "name": "Thunder Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/275185141"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "499924297",
+                        "name": "Torrent Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/499924297"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Gobbler Jewel 2",
+            "id": "1374346390",
+            "description": "A decoration that enhances the Speed Eating skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2orHall_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1374346390",
+                        "name": "Speed Eating",
+                        "link": "https://mhrise.kiranico.com/data/skills/1374346390"
+                    },
+                    "description": "Increases meat-eating and item-consumption speed."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2116904333",
+                        "name": "Anjanath Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/2116904333"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2084125564",
+                        "name": "Tetranadon Beak+",
+                        "link": "https://mhrise.kiranico.com/data/items/2084125564"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Protection Jewel 2",
+            "id": "1432800563",
+            "description": "A decoration that enhances the Divine Blessing skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Village_2orHall_2",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1432800563",
+                        "name": "Divine Blessing",
+                        "link": "https://mhrise.kiranico.com/data/skills/1432800563"
+                    },
+                    "description": "Has a predetermined chance of reducing the damage you take."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1046750886",
+                        "name": "Bloodrun Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1046750886"
+                    },
+                    "amount": "x4"
+                },
+                {
+                    "item": {
+                        "id": "1813748110",
+                        "name": "Somnacanth Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1813748110"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "2005864185",
+                        "name": "Mizutsune Fin+",
+                        "link": "https://mhrise.kiranico.com/data/items/2005864185"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2037168225",
+                        "name": "Wyvern Gem",
+                        "link": "https://mhrise.kiranico.com/data/items/2037168225"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Wall Run Jewel 2",
+            "id": "1814415203",
+            "description": "A decoration that enhances the Wall Runner skill.",
+            "unlockItem": "",
+            "unlockMonster": "Bishaten",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1814415203",
+                        "name": "Wall Runner",
+                        "link": "https://mhrise.kiranico.com/data/skills/1814415203"
+                    },
+                    "description": "Reduces stamina consumption when running on walls."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1665280489",
+                        "name": "Bishaten Talon+",
+                        "link": "https://mhrise.kiranico.com/data/items/1665280489"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "567563792",
+                        "name": "Quality Stomach",
+                        "link": "https://mhrise.kiranico.com/data/items/567563792"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Wirebug Jewel 2",
+            "id": "1665963842",
+            "description": "A decoration that enhances the Wirebug Whisperer skill.",
+            "unlockItem": "",
+            "unlockMonster": "Bishaten",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1665963842",
+                        "name": "Wirebug Whisperer",
+                        "link": "https://mhrise.kiranico.com/data/skills/1665963842"
+                    },
+                    "description": "Improves your handling of Wirebugs."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1637321259",
+                        "name": "Bishaten Feather+",
+                        "link": "https://mhrise.kiranico.com/data/items/1637321259"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "528407823",
+                        "name": "Monster Broth",
+                        "link": "https://mhrise.kiranico.com/data/items/528407823"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Grinder Jewel 1",
+            "id": "1965261215",
+            "description": "A decoration that enhances the Speed Sharpening skill.",
+            "unlockItem": "",
+            "unlockMonster": "Rathian",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1965261215",
+                        "name": "Speed Sharpening",
+                        "link": "https://mhrise.kiranico.com/data/skills/1965261215"
+                    },
+                    "description": "Speeds up weapon sharpening when using a whetstone."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "898738094",
+                        "name": "Rath Wingtalon+",
+                        "link": "https://mhrise.kiranico.com/data/items/898738094"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1222816897",
+                        "name": "Great Izuchi Tail+",
+                        "link": "https://mhrise.kiranico.com/data/items/1222816897"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Enduring Jewel 2",
+            "id": "1907855730",
+            "description": "A decoration that enhances the Item Prolonger skill.",
+            "unlockItem": "",
+            "unlockMonster": "Royal Ludroth",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1907855730",
+                        "name": "Item Prolonger",
+                        "link": "https://mhrise.kiranico.com/data/skills/1907855730"
+                    },
+                    "description": "Extends the duration of some item effects."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1025340619",
+                        "name": "Royal Ludroth Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1025340619"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Recovery Jewel 1",
+            "id": "1460759793",
+            "description": "A decoration that enhances the Recovery Speed skill.",
+            "unlockItem": "",
+            "unlockMonster": "Jyuratodus",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1460759793",
+                        "name": "Recovery Speed",
+                        "link": "https://mhrise.kiranico.com/data/skills/1460759793"
+                    },
+                    "description": "Speeds healing of recoverable damage (the red portion of the health gauge)."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1151815770",
+                        "name": "Jyuratodus Fin+",
+                        "link": "https://mhrise.kiranico.com/data/items/1151815770"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Medicine Jewel 2",
+            "id": "1446526160",
+            "description": "A decoration that enhances the Recovery Up skill.",
+            "unlockItem": "",
+            "unlockMonster": "Basarios",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1446526160",
+                        "name": "Recovery Up",
+                        "link": "https://mhrise.kiranico.com/data/skills/1446526160"
+                    },
+                    "description": "Increases the amount recovered when restoring health."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "807778061",
+                        "name": "Basarios Pleura+",
+                        "link": "https://mhrise.kiranico.com/data/items/807778061"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "257504089",
+                        "name": "Ancient Potion",
+                        "link": "https://mhrise.kiranico.com/data/items/257504089"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Sonorous Jewel 1",
+            "id": "643686022",
+            "description": "A decoration that enhances the Horn Maestro skill.",
+            "unlockItem": "",
+            "unlockMonster": "Pukei-Pukei",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "643686022",
+                        "name": "Horn Maestro",
+                        "link": "https://mhrise.kiranico.com/data/skills/643686022"
+                    },
+                    "description": "Increases overall performance speed and shockwave damage."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1925195273",
+                        "name": "Pukei-Pukei Sac+",
+                        "link": "https://mhrise.kiranico.com/data/items/1925195273"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Drain Jewel 1",
+            "id": "614678208",
+            "description": "A decoration that enhances the Stamina Thief skill.",
+            "unlockItem": "",
+            "unlockMonster": "Barroth",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "614678208",
+                        "name": "Stamina Thief",
+                        "link": "https://mhrise.kiranico.com/data/skills/614678208"
+                    },
+                    "description": "Increases certain attacks' ability to exhaust monsters."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "149796479",
+                        "name": "Barroth Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/149796479"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Physique Jewel 2",
+            "id": "822560811",
+            "description": "A decoration that enhances the Constitution skill.",
+            "unlockItem": "",
+            "unlockMonster": "Volvidon",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "822560811",
+                        "name": "Constitution",
+                        "link": "https://mhrise.kiranico.com/data/skills/822560811"
+                    },
+                    "description": "Reduces stamina depletion when evading, blocking, or doing certain other actions."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "696507128",
+                        "name": "Volvidon Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/696507128"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "829452112",
+                        "name": "Fucium Ore",
+                        "link": "https://mhrise.kiranico.com/data/items/829452112"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Venom Jewel 1",
+            "id": "4438520",
+            "description": "A decoration that enhances the Poison Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "Pukei-Pukei",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "4438520",
+                        "name": "Poison Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/4438520"
+                    },
+                    "description": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1269319415",
+                        "name": "Pukei-Pukei Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1269319415"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1872527101",
+                        "name": "Toxin Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/1872527101"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Slider Jewel 1",
+            "id": "629436129",
+            "description": "A decoration that enhances the Affinity Sliding skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "UnlockHR",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "629436129",
+                        "name": "Affinity Sliding",
+                        "link": "https://mhrise.kiranico.com/data/skills/629436129"
+                    },
+                    "description": "Sliding increases your affinity for a short time."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "434407362",
+                        "name": "Lagombi Plastron+",
+                        "link": "https://mhrise.kiranico.com/data/items/434407362"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "862115125",
+                        "name": "Spongy Hide+",
+                        "link": "https://mhrise.kiranico.com/data/items/862115125"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Bomber Jewel 1",
+            "id": "1980035516",
+            "description": "A decoration that enhances the Bombardier skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "UnlockHR",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1980035516",
+                        "name": "Bombardier",
+                        "link": "https://mhrise.kiranico.com/data/skills/1980035516"
+                    },
+                    "description": "Increases the damage of explosive items."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "380919351",
+                        "name": "Inferno Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/380919351"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1510846040",
+                        "name": "Magna Ghostprism",
+                        "link": "https://mhrise.kiranico.com/data/items/1510846040"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Blaze Jewel 1",
+            "id": "437062215",
+            "description": "A decoration that enhances the Fire Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "UnlockHR",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "437062215",
+                        "name": "Fire Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/437062215"
+                    },
+                    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1082529868",
+                        "name": "Rathian Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1082529868"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "380919351",
+                        "name": "Inferno Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/380919351"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Stream Jewel 1",
+            "id": "82213476",
+            "description": "A decoration that enhances the Water Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "UnlockHR",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "82213476",
+                        "name": "Water Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/82213476"
+                    },
+                    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1525985412",
+                        "name": "Jyuratodus Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/1525985412"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "499924297",
+                        "name": "Torrent Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/499924297"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Bolt Jewel 1",
+            "id": "110172730",
+            "description": "A decoration that enhances the Thunder Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "UnlockHR",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "110172730",
+                        "name": "Thunder Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/110172730"
+                    },
+                    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "88196934",
+                        "name": "Pearl Hide",
+                        "link": "https://mhrise.kiranico.com/data/items/88196934"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "275185141",
+                        "name": "Thunder Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/275185141"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Frost Jewel 1",
+            "id": "96446981",
+            "description": "A decoration that enhances the Ice Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "UnlockHR",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "96446981",
+                        "name": "Ice Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/96446981"
+                    },
+                    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "478101582",
+                        "name": "Lagombi Pelt+",
+                        "link": "https://mhrise.kiranico.com/data/items/478101582"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "315400328",
+                        "name": "Great Baggi Claw+",
+                        "link": "https://mhrise.kiranico.com/data/items/315400328"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Dragon Jewel 1",
+            "id": "124406235",
+            "description": "A decoration that enhances the Dragon Attack skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "UnlockHR",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "124406235",
+                        "name": "Dragon Attack",
+                        "link": "https://mhrise.kiranico.com/data/skills/124406235"
+                    },
+                    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1096763501",
+                        "name": "Rathian Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/1096763501"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1453939801",
+                        "name": "Dragonbone Relic",
+                        "link": "https://mhrise.kiranico.com/data/items/1453939801"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Defense Jewel 1",
+            "id": "1418566930",
+            "description": "A decoration that enhances the Defense Boost skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "UnlockHR",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1418566930",
+                        "name": "Defense Boost",
+                        "link": "https://mhrise.kiranico.com/data/skills/1418566930"
+                    },
+                    "description": "Increases defense. Resistances will also improve as the level increases."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1472350749",
+                        "name": "Basarios Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/1472350749"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "221451961",
+                        "name": "Barroth Ridge+",
+                        "link": "https://mhrise.kiranico.com/data/items/221451961"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Carver Jewel 1",
+            "id": "2040569941",
+            "description": "A decoration that enhances the Carving Pro skill.",
+            "unlockItem": "",
+            "unlockMonster": "Tetranadon",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "2040569941",
+                        "name": "Carving Pro",
+                        "link": "https://mhrise.kiranico.com/data/skills/2040569941"
+                    },
+                    "description": "Prevents knockback from attacks while carving."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1921948606",
+                        "name": "Tetra Carapace+",
+                        "link": "https://mhrise.kiranico.com/data/items/1921948606"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Rodeo Jewel 2",
+            "id": "1695408169",
+            "description": "A decoration that enhances the Master Mounter skill.",
+            "unlockItem": "",
+            "unlockMonster": "Aknosom",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1695408169",
+                        "name": "Master Mounter",
+                        "link": "https://mhrise.kiranico.com/data/skills/1695408169"
+                    },
+                    "description": "Improves your Wyvern Riding skills."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1965106234",
+                        "name": "Aknosom Feather+",
+                        "link": "https://mhrise.kiranico.com/data/items/1965106234"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Hungerless Jewel 1",
+            "id": "2054819914",
+            "description": "A decoration that enhances the Hunger Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "Tetranadon",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "2054819914",
+                        "name": "Hunger Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/2054819914"
+                    },
+                    "description": "Reduces maximum stamina depletion over time."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "2084125564",
+                        "name": "Tetranadon Beak+",
+                        "link": "https://mhrise.kiranico.com/data/items/2084125564"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Satiated Jewel 1",
+            "id": "1935814960",
+            "description": "A decoration that enhances the Free Meal skill.",
+            "unlockItem": "",
+            "unlockMonster": "Khezu",
+            "unlockProgress": "None",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1935814960",
+                        "name": "Free Meal",
+                        "link": "https://mhrise.kiranico.com/data/skills/1935814960"
+                    },
+                    "description": "Gives you a predetermined chance of consuming a food or drink item for free."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1194008633",
+                        "name": "Suspicious Fang+",
+                        "link": "https://mhrise.kiranico.com/data/items/1194008633"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1313015667",
+                        "name": "Kulu-Ya-Ku Beak+",
+                        "link": "https://mhrise.kiranico.com/data/items/1313015667"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Muck Jewel 1",
+            "id": "1280901767",
+            "description": "A decoration that enhances the Muck Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1280901767",
+                        "name": "Muck Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1280901767"
+                    },
+                    "description": "Reduces impairments to mobility while stuck in monster muck or deep snow."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "434407362",
+                        "name": "Lagombi Plastron+",
+                        "link": "https://mhrise.kiranico.com/data/items/434407362"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "45024986",
+                        "name": "Barroth Shell",
+                        "link": "https://mhrise.kiranico.com/data/items/45024986"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Diversion Jewel 1",
+            "id": "1681174536",
+            "description": "A decoration that enhances the Diversion skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1681174536",
+                        "name": "Diversion",
+                        "link": "https://mhrise.kiranico.com/data/skills/1681174536"
+                    },
+                    "description": "Increases the attention drawn when attacking a monster."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1325288048",
+                        "name": "Remobra Hide+",
+                        "link": "https://mhrise.kiranico.com/data/items/1325288048"
+                    },
+                    "amount": "x3"
+                }
+            ]
+        },
+        {
+            "name": "Dive Jewel 1",
+            "id": "2069053547",
+            "description": "A decoration that enhances the Leap of Faith skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "2069053547",
+                        "name": "Leap of Faith",
+                        "link": "https://mhrise.kiranico.com/data/skills/2069053547"
+                    },
+                    "description": "Allows you to do a dive-evade when facing towards large monsters, and extends the dive-evade distance."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "596047318",
+                        "name": "Bullfango Pelt+",
+                        "link": "https://mhrise.kiranico.com/data/items/596047318"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "2142378147",
+                        "name": "Stoutbone",
+                        "link": "https://mhrise.kiranico.com/data/items/2142378147"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Fortitude Jewel 2",
+            "id": "2099040502",
+            "description": "A decoration that enhances the Fortify skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "2099040502",
+                        "name": "Fortify",
+                        "link": "https://mhrise.kiranico.com/data/skills/2099040502"
+                    },
+                    "description": "Increases your attack and defense when you fall in battle. (Disabled for some quests. Can be activated twice.)"
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1807008118",
+                        "name": "Arzuros Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/1807008118"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Geology Jewel 1",
+            "id": "1223496314",
+            "description": "A decoration that enhances the Geologist skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1223496314",
+                        "name": "Geologist",
+                        "link": "https://mhrise.kiranico.com/data/skills/1223496314"
+                    },
+                    "description": "Increases the number of times you can use a gathering point."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1122355199",
+                        "name": "Kulu-Ya-Ku Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1122355199"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Botany Jewel 1",
+            "id": "1309385285",
+            "description": "A decoration that enhances the Botanist skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1309385285",
+                        "name": "Botanist",
+                        "link": "https://mhrise.kiranico.com/data/skills/1309385285"
+                    },
+                    "description": "Increases the quantity of herbs and other consumable items you gather."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1294996675",
+                        "name": "Great Izuchi Pelt+",
+                        "link": "https://mhrise.kiranico.com/data/items/1294996675"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Antiblast Jewel 1",
+            "id": "1295151780",
+            "description": "A decoration that enhances the Blast Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1295151780",
+                        "name": "Blast Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1295151780"
+                    },
+                    "description": "Grants protection against blastblight."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "380919351",
+                        "name": "Inferno Sac",
+                        "link": "https://mhrise.kiranico.com/data/items/380919351"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "736330347",
+                        "name": "Bombadgy Igniter",
+                        "link": "https://mhrise.kiranico.com/data/items/736330347"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Pep Jewel 1",
+            "id": "1118724801",
+            "description": "A decoration that enhances the Sleep Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1118724801",
+                        "name": "Sleep Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1118724801"
+                    },
+                    "description": "Reduces the duration of sleep."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "387055818",
+                        "name": "Great Baggi Hide+",
+                        "link": "https://mhrise.kiranico.com/data/items/387055818"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1356678285",
+                        "name": "Baggi Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1356678285"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Antipara Jewel 1",
+            "id": "1104491296",
+            "description": "A decoration that enhances the Paralysis Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1104491296",
+                        "name": "Paralysis Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1104491296"
+                    },
+                    "description": "Reduces the duration of paralysis."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "999663359",
+                        "name": "Bnahabra Carapace",
+                        "link": "https://mhrise.kiranico.com/data/items/999663359"
+                    },
+                    "amount": "x3"
+                },
+                {
+                    "item": {
+                        "id": "624969405",
+                        "name": "Bnahabra Stinger",
+                        "link": "https://mhrise.kiranico.com/data/items/624969405"
+                    },
+                    "amount": "x1"
+                }
+            ]
+        },
+        {
+            "name": "Antidote Jewel 1",
+            "id": "1089716995",
+            "description": "A decoration that enhances the Poison Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1089716995",
+                        "name": "Poison Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1089716995"
+                    },
+                    "description": "Reduces damage while poisoned."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "892085648",
+                        "name": "Great Wroggi Hide+",
+                        "link": "https://mhrise.kiranico.com/data/items/892085648"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "1385161795",
+                        "name": "Wroggi Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1385161795"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Fire Res Jewel 1",
+            "id": "1507582921",
+            "description": "A decoration that enhances the Fire Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1507582921",
+                        "name": "Fire Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1507582921"
+                    },
+                    "description": "Increases fire resistance. Also improves defense at higher levels."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1951396869",
+                        "name": "Aknosom Scale+",
+                        "link": "https://mhrise.kiranico.com/data/items/1951396869"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Water Res Jewel 1",
+            "id": "1522357230",
+            "description": "A decoration that enhances the Water Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1522357230",
+                        "name": "Water Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1522357230"
+                    },
+                    "description": "Increases water resistance. Also improves defense at higher levels."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1907698585",
+                        "name": "Tetranadon Hide+",
+                        "link": "https://mhrise.kiranico.com/data/items/1907698585"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Thunder Res Jewel 1",
+            "id": "1148187564",
+            "description": "A decoration that enhances the Thunder Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1148187564",
+                        "name": "Thunder Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1148187564"
+                    },
+                    "description": "Increases thunder resistance. Also improves defense at higher levels."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "88196934",
+                        "name": "Pearl Hide",
+                        "link": "https://mhrise.kiranico.com/data/items/88196934"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Ice Res Jewel 1",
+            "id": "1536590735",
+            "description": "A decoration that enhances the Ice Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1536590735",
+                        "name": "Ice Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1536590735"
+                    },
+                    "description": "Increases ice resistance. Also improves defense at higher levels."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "462890880",
+                        "name": "Lagombi Frozenclaw",
+                        "link": "https://mhrise.kiranico.com/data/items/462890880"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        },
+        {
+            "name": "Dragon Res Jewel 1",
+            "id": "1161896781",
+            "description": "A decoration that enhances the Dragon Resistance skill.",
+            "unlockItem": "",
+            "unlockMonster": "",
+            "unlockProgress": "Hall_7",
+            "skills": [
+                {
+                    "skill": {
+                        "id": "1161896781",
+                        "name": "Dragon Resistance",
+                        "link": "https://mhrise.kiranico.com/data/skills/1161896781"
+                    },
+                    "description": "Increases dragon resistance. Also improves defense at higher levels."
+                }
+            ],
+            "materials": [
+                {
+                    "item": {
+                        "id": "1031992961",
+                        "name": "Aquaglow Jewel",
+                        "link": "https://mhrise.kiranico.com/data/items/1031992961"
+                    },
+                    "amount": "x1"
+                },
+                {
+                    "item": {
+                        "id": "1918163247",
+                        "name": "Monster Keenbone",
+                        "link": "https://mhrise.kiranico.com/data/items/1918163247"
+                    },
+                    "amount": "x2"
+                },
+                {
+                    "item": {
+                        "id": "707087610",
+                        "name": "Dragonhusk Shard",
+                        "link": "https://mhrise.kiranico.com/data/items/707087610"
+                    },
+                    "amount": "x2"
+                }
+            ]
+        }
+    ]
+}

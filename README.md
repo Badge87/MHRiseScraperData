@@ -1,7 +1,7 @@
 # MHRiseScraperData
 
 
-Here you can find information about MHRise in the form of jsons.
+Here you can find information about Monster Hunter Rise in the form of jsons.
 
 # Contributing
 If you have any requests for additional information, feel free to ask them in the issue section.

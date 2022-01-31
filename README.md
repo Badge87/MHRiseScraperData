@@ -3,6 +3,10 @@
 
 Here you can find information about MHRise in the form of jsons.
 
+# Contributing
+If you have any requests for additional information, feel free to ask them in the issue section.
+If possible, I will be happy to implement them!
+
 # Sources
 All the info you find inside the json has been extracted and aggregated together from the following sites:
 - https://mhrise.kiranico.com/
